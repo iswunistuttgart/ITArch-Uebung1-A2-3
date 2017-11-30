@@ -21,7 +21,7 @@ Zeile 10
 
 Zeile 11
 
-Zeile 12
+Zeile 12 geändert
 
 Zeile 13
 
@@ -37,4 +37,4 @@ Zeile 18
 
 Zeile 19
 
-Zeile 20 (IBMIS HIER)
+Zeile 20
