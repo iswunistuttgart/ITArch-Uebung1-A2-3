@@ -1,4 +1,4 @@
-# ITArch-Ue1-2
+# ITArch-Ue1-2-3
 Zeile 1
 
 Zeile 2 
@@ -19,17 +19,17 @@ Zeile 9
 
 Zeile 10 geändert
 
-Zeile 11
+Zeile 11 geändert
 
-Zeile 12
+Zeile 12 geaendert
 
 Zeile 13
 
 Zeile 14
 
-Zeile 15
+Zeile 15 geändert
 
-Zeile 16
+Zeile 16 geändert
 
 Zeile 17
 
