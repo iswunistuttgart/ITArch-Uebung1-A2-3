@@ -1,35 +1,35 @@
-# ITArch-Ue1-2-3 Lines
+# ITArch-Ue1-2-3 
 Zeile 1
 
 Zeile 2 
 
-Zeile 3 geändert
+Zeile 3 
 
 Zeiel 4
 
-Zeile 5 geändert
+Zeile 5 
 
-Zeile 6 geaendert
+Zeile 6 
 
 Zeile 7
 
 Zeile 8
 
-Zeile 9 geändert
+Zeile 9 
 
-Zeile 10 geändert
+Zeile 10 
 
-Zeile 11 geändert
+Zeile 11 
 
-Zeile 12 geaendert
+Zeile 12 
 
 Zeile 13
 
 Zeile 14
 
-Zeile 15 geändert
+Zeile 15 
 
-Zeile 16 geändert
+Zeile 16 
 
 Zeile 17
 
