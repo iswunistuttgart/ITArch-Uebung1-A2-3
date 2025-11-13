@@ -12,7 +12,7 @@ Zeile 5
 
 Zeile 6
 
-Zeile 7
+Zeile 7 geändert
 
 Zeile 8
 
@@ -39,28 +39,3 @@ Zeile 18
 Zeile 19
 
 Zeile 20
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Zeile 33 geändert (kommt von pool-sal33)
-
