@@ -6,7 +6,7 @@ Zeile 2 geändert
 
 Zeile 3
 
-Zeiel 4 geändert
+Zeile 4 geändert
 
 Zeile 5 geändert
 
@@ -20,7 +20,7 @@ Zeile 9
 
 Zeile 10
 
-Zeile 11
+Zeile 11 geändert
 
 Zeile 12
 
